@@ -1,0 +1,85 @@
+.bg {
+    background-image: url(../Image/pic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 500px; 
+    opacity: 0.5;
+}
+
+.center {
+    text-align: center;
+    color: black;
+}
+
+.para {
+    text-align: center;
+    color: white;
+}
+
+.button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 45%;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.img {
+    width: 70%;
+    height: auto;
+}
+
+.margin {
+    margin-top: 20px;
+}
+
+.pic {
+    width: 70%;
+    height: 50%;
+}
+
+.pict{
+    width: 70%;
+    height: 60%;
+}
+.nav p {
+    margin: 0;
+}
+
+.search-form {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+
+.search-form input[type="text"] {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #d0dae6;
+}
+
+.search-form button {
+    padding: 8px 16px;
+    background-color: black;
+    color: #51cee7;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search-form button:hover {
+    background-color: #0056b3;
+}
+
+.blue{
+    background-color: #51cee7;
+    padding: 40px;
+}
